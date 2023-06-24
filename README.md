@@ -4,7 +4,7 @@ Hello everyone 👋🏻 , I am Paşa
 
 <p font="bold">SUMMARY</p>
 
-<hr  width="500"/>
+<hr  width="600"/>
 
 <div display="flex";justifyContent="center">
 
