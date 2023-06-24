@@ -2,7 +2,7 @@ Hello everyone 👋🏻 , I am Paşa
 
 <hr width="500"/>
 
-<p padding="500">SUMMARY</p>
+<p font-size="500">SUMMARY</p>
 
 <hr  width="500"/>
 
