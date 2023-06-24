@@ -1,10 +1,10 @@
 Hello everyone 👋🏻 , I am Paşa
 
-<hr width="500"/>
+<hr width="480"/>
 
 <p font="bold">SUMMARY</p>
 
-<hr  width="600"/>
+<hr  width="480"/>
 
 <div display="flex";justifyContent="center">
 
