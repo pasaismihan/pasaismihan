@@ -2,9 +2,9 @@ Hello everyone 👋🏻 , I am Paşa
 
 <hr width="500"/>
 
-SUMMARY
+<p left-margin="500">SUMMARY</p>
 
-<hr left-margin="500" width="500"/>
+<hr  width="500"/>
 
 <div display="flex";justifyContent="center">
 
