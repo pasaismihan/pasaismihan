@@ -1,6 +1,6 @@
 Hello everyone 👋🏻 , I am Paşa
 
-<hr style="font:bold"/>
+<hr width="500"/>
 
 <div style="display:flex;align-items:center;justify-content:center....">
 
