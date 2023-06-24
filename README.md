@@ -6,7 +6,7 @@ SUMMARY
 
 <hr width="500"/>
 
-<div display="flex";justify_content="center">
+<div display="flex";justifyContent="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pasaismihan&theme=dracula&hide_border=true)<br/>
 
