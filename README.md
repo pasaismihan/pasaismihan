@@ -2,7 +2,7 @@ Hello everyone 👋🏻 , I am Paşa
 
 <hr width="500"/>
 
-<span style="background-color:black;color:white;padding:20">SUMMARY</span>
+<span >SUMMARY</span>
 
 <hr  width="500"/>
 
