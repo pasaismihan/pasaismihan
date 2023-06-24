@@ -4,7 +4,7 @@ Hello everyone 👋🏻 , I am Paşa
 
 SUMMARY
 
-<hr width="500"/>
+<hr left-margin="500" width="500"/>
 
 <div display="flex";justifyContent="center">
 
