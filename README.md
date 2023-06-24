@@ -4,7 +4,7 @@ Hello everyone 👋🏻 , I am Paşa
 
 <div display="flex",align-items="center",justify-content="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pasaismihan&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pasaismihan&theme=vue&hide_border=true)<br/>
 
 
 </div>
