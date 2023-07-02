@@ -1,4 +1,4 @@
-Hello everyone 👋🏻 , I am Paşa
+Hello everyone 👋🏻 , I am Pasa
 
 <hr width="850"/>
 
