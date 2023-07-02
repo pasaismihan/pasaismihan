@@ -1,12 +1,12 @@
 Hello everyone 👋🏻 , I am Paşa
 
-<hr width="800"/>
+<hr width="850"/>
 
 SUMMARY
 <hr width="80"/>
 I was entitled to finish within 10 students with 45 frontend and 22 backend projects that I made by entering the software field to which I feel myself among 1200 candidates at Workintech training institution. Care was taken to determine, build, test the requirements of these projects and to proceed by adopting the Agile model while doing these. In addition, the problems experienced during the project development phase were solved and an active role was played in group management and group work. My future goal is that I will be able to continue all the project development and being a part of the team training I have received during this training process in a professional manner, and with this, I will be able to develop both myself and the company.  
 
-<hr  width="800"/>
+<hr  width="850"/>
 
 <div display="flex";justifyContent="center.">
 
