@@ -7,7 +7,7 @@ I finished among the top 10 students at Workintech educational institution, outp
 
 <hr  width="850"/>
 
-<div display="flex";justifyContent="center.">
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pasaismihan&theme=swift&border_radius=11.8&card_width=700)<br/>
 
