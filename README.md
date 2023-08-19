@@ -15,4 +15,4 @@ I finished among the top 10 students at Workintech educational institution, outp
 </div>
 
 
-https://camo.githubusercontent.com/d8b720e3ecec39922ed3b8427a8edc63b688e51fdfac66f8bf1fe307eb644ea5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6962726168696d6665767a692673686f775f69636f6e733d74727565267468656d653d7261646963616c
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasaismihan&size_weight=0.5&count_weight=0.5)
