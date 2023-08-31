@@ -12,11 +12,10 @@ I finished among the top 10 students at Workintech educational institution, outp
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pasaismihan&theme=swift&border_radius=11.8&card_width=700)<br/>
 
 
-SKILLS
+
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
