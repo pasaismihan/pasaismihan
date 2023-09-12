@@ -9,7 +9,7 @@ I finished among the top 10 students at Workintech educational institution, outp
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pasaismihan)](https://git.io/streak-stats)
+
 
 
 
@@ -33,5 +33,5 @@ I finished among the top 10 students at Workintech educational institution, outp
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=pasaismihan)](https://git.io/streak-stats)
 
