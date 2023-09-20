@@ -11,6 +11,8 @@ I finished among the top 10 students at Workintech educational institution, outp
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pasaismihan)](https://git.io/streak-stats)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f4801e8d-0c00-4da9-bfa6-db617ac0cee7/deploy-status)](https://app.netlify.com/sites/pasaismihan/deploys)
+
 
 
 <p>
