@@ -2,7 +2,9 @@ Hello 👋 , I am Paşa
 
 <hr width="850"/>
 
-I finished among the top 10 students at Workintech educational institution, outperforming 1200 candidates, by successfully Completion of 16 compulsory challenge projects. Throughout my software journey, I diligently determined, built, and tested project requirements, adhering to the Agile development model. I effectively resolved issues encountered during project development and actively contributed to group management and collaboration. Looking ahead, my ambition is to leverage my project development skills and the team training I have received to make a meaningful impact in a professional setting. By doing so, I aim to continuously enhance my own abilities while driving growth for the company.
+Portfolio -> pasaismihan.vercel.app
+
+Ranked among the top 10 students at Workintech educational institution, leaving 1200 candidates behind. Successfully completed 16 mandatory projects. Meticulously identified, created, and tested project requirements based on the Agile development model throughout the software journey. Effectively resolved issues encountered during the project development phase and actively contributed to group management and collaboration. The goal is to make a meaningful impact in a professional environment using project development skills and team training. In this way, it is aimed to continuously develop personal skills and contribute to the growth of the company.
  
 
 <hr  width="850"/>
