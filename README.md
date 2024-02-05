@@ -1,10 +1,6 @@
 Hello 👋 , I am Paşa
 
-<hr width="850"/>
-
-Portfolio -> pasaismihan.vercel.app
-
-Ranked among the top 10 students at Workintech educational institution, leaving 1200 candidates behind. Successfully completed 16 mandatory projects. Meticulously identified, created, and tested project requirements based on the Agile development model throughout the software journey. Effectively resolved issues encountered during the project development phase and actively contributed to group management and collaboration. The goal is to make a meaningful impact in a professional environment using project development skills and team training. In this way, it is aimed to continuously develop personal skills and contribute to the growth of the company.
+I ventured into the software realm with an 8-month full-stack developer training. Currently, I am employed as a frontend developer at a company, predominantly utilizing JavaScript. I conscientiously strive to enhance my backend skills during opportune moments.
  
 
 <hr  width="850"/>
