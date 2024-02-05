@@ -18,7 +18,7 @@ const aboutPasa = {
   CareerAspirations: {
     ShortTermGoal: "Secure an Mid-Level Position in Software Development",
     LongTermVision: "Become a Specialist in Full Stack Development",
-    KeyStrengths: ["Problem-Solving Skills", "Eagerness to Learn]
+    KeyStrengths: ["Problem-Solving Skills", "Eagerness to Learn"]
   }
 };
 ```
