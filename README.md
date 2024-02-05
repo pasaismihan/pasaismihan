@@ -2,7 +2,7 @@ Hello 👋 , I am Paşa
 
 I ventured into the software realm with an 8-month Full-Stack Developer Bootcamp. Currently, I am employed as a Frontend Developer at a company, predominantly utilizing JavaScript. I conscientiously strive to enhance my Backend skills during opportune moments.
 
-```
+```js
 const aboutPasa = {
   ProfessionalTitle: "Aspiring Software Developer with a Focus in JavaScript Technologies",
   TechnicalSkills: {
