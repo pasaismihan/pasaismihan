@@ -2,7 +2,8 @@ Hello 👋 , I am Paşa
 
 I ventured into the software realm with an 8-month full-stack developer training. Currently, I am employed as a frontend developer at a company, predominantly utilizing JavaScript. I conscientiously strive to enhance my backend skills during opportune moments.
 
-`const aboutPasa = {
+```
+const aboutPasa = {
   ProfessionalTitle: "Aspiring Software Developer with a Focus in .NET Technologies",
   TechnicalSkills: {
     CoreSkills: ["C#", "Python"],
@@ -19,7 +20,8 @@ I ventured into the software realm with an 8-month full-stack developer training
     LongTermVision: "Become a Specialist in Software and AI",
     KeyStrengths: ["Problem-Solving Skills", "Eagerness to Learn"]
   }
-};`
+};
+```
 
 <hr  width="850"/>
 
