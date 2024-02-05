@@ -1,24 +1,24 @@
 Hello 👋 , I am Paşa
 
-I ventured into the software realm with an 8-month full-stack developer training. Currently, I am employed as a frontend developer at a company, predominantly utilizing JavaScript. I conscientiously strive to enhance my backend skills during opportune moments.
+I ventured into the software realm with an 8-month Full-Stack Developer Bootcamp. Currently, I am employed as a Frontend Developer at a company, predominantly utilizing JavaScript. I conscientiously strive to enhance my Backend skills during opportune moments.
 
 ```
 const aboutPasa = {
-  ProfessionalTitle: "Aspiring Software Developer with a Focus in .NET Technologies",
+  ProfessionalTitle: "Aspiring Software Developer with a Focus in JavaScript Technologies",
   TechnicalSkills: {
-    CoreSkills: ["C#", "Python"],
-    FrameworksAndLibraries: [".NET", ".NET Core", "React", "Nextjs", "TypeScript", "Flask", "Pandas", "Numpy", "Scikit-learn", "TensorFlow", "tailwindcss", "GraphQL", "Entity Framework", "MS SQL", "Javascript", "C#"],
-    AreasOfInterest: ["Full-Stack Development", "Machine Learning", "Computer Vision"],
-    AcademicBackground: ["B.Sc. in Electrical & Electronics Engineering"]
+    CoreSkills: ["C#", "Javascript"],
+    FrameworksAndLibraries: ["React", "NextJs", "Redux", "TypeScript", "TailwindCSS", "GraphQL", ".NET", ".NET Core", "ASP.NET Core", "ExpressJs" , "NodeJs", "Entity Framework", "MS SQL", "Mongo DB"],
+    AreasOfInterest: ["Frontend Development", "Backend Development"],
+    AcademicBackground: ["Civil Engineering"]
   },
   CurrentLearningFocus: {
-    MainLanguage: "C#",
-    Framework: ".NET Core",
+    MainLanguage: "JavaScript",
+    Framework: "NextJs",
   },
   CareerAspirations: {
-    ShortTermGoal: "Secure an Entry-Level Position in Software Development",
-    LongTermVision: "Become a Specialist in Software and AI",
-    KeyStrengths: ["Problem-Solving Skills", "Eagerness to Learn"]
+    ShortTermGoal: "Secure an Mid-Level Position in Software Development",
+    LongTermVision: "Become a Specialist in Full Stack Development",
+    KeyStrengths: ["Problem-Solving Skills", "Eagerness to Learn]
   }
 };
 ```
